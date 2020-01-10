@@ -1,8 +1,8 @@
 {
   "pk": "author",
-  "title": "Gatsby + Tina Starter Blog",
-  "author": "Mario Winiker",
-  "description": "A starter blog demonstrating what Gatsby & Tina can do.",
+  "title": "KiloKilo Blog",
+  "author": "Alex",
+  "description": "A starter blog demonstrating what Tina can do.",
   "siteUrl": "https://gatsby-starter-tinacms-demo.netlify.com/",
   "social": {
     "twitter": "figumari"
